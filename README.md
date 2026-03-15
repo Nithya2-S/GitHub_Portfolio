@@ -1,6 +1,6 @@
 # Welcome to my GitHub Portfolio
 ![Nithya S](https://github.com/Nithya2-S/GitHub_Portfolio/blob/main/Nithya.JPG?raw=true)
-# Nithya – Data Analyst Portfolio
+# Nithya S – Data Analyst
 
 ## About Me
 Hello! My name is Nithya. I am from Tenkasi, known for Kutralam waterfalls.

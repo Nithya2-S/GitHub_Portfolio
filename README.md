@@ -32,7 +32,7 @@ I am always eager to learn new technologies and explore opportunities where I ca
 Analyzed key metrics such as Sales, Cost, Profit, Conversions, ROAS, ROI, and CTR, the project provides actionable insights to improve campaign effectiveness and optimize marketing spend. The final interactive dashboard enables data-driven decision-making through visual storytelling and performance tracking.
 
 Tools Used:
-Excel
+Excel & 
 Power BI
 
 ### [2. AI-Powered Fleet Performance & Delivery Efficiency Dashboard](https://github.com/Nithya2-S/PowerBI_Assignments/blob/main/Power%20BI_Module_End_Project.pdf)

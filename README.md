@@ -19,10 +19,10 @@ I enjoy transforming raw data into meaningful insights that support better busin
 ---
 
 ## Skills
-• Programming Languages: SQL, Python 
-• Tools: Excel, Power BI, Python Libraries (NumPy, Pandas) 
-• Techniques: Data Cleaning, Validation, Analysis, Reporting 
-• Soft Skills: Leadership & Team Management, Time Management, Problem Solving 
+- Programming Languages: SQL, Python 
+- Tools: Excel, Power BI, Python Libraries (NumPy, Pandas) 
+- Techniques: Data Cleaning, Validation, Analysis, Reporting 
+- Soft Skills: Leadership & Team Management, Time Management, Problem Solving 
 
 ---
 

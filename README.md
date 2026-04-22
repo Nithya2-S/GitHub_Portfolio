@@ -41,13 +41,19 @@ Analyzed survey feedback by performing data collection, text cleaning, word anal
 Tools Used:
 Python Google Colab
 
-### [3. AI-Powered Fleet Performance & Delivery Efficiency Dashboard](https://github.com/Nithya2-S/PowerBI_Assignments/blob/main/Power%20BI_Module_End_Project.pdf)
+### [3. Customer Churn Analysis](https://github.com/Nithya2-S/SQL_Assignments/blob/main/E-Commerce%20Customer%20churn%20db%20project.sql)
+Performed end-to-end data cleaning, feature engineering, and SQL-based analysis to identify churn patterns and derive business insights for customer retention.
+
+Tools Used:
+MySQL
+
+### [4. AI-Powered Fleet Performance & Delivery Efficiency Dashboard](https://github.com/Nithya2-S/PowerBI_Assignments/blob/main/Power%20BI_Module_End_Project.pdf)
 Analyzed on-time delivery performance across destinations, monitoring fuel efficiency trends, evaluating vehicle utilization, and comparing maintenance and cost metrics by vehicle type to support data-driven decision-making. 
 
 Tools Used:
 Power BI
 
-### [4. Ecommerce_Sales_Performance_Dashboard](https://github.com/Nithya2-S/Excel_Assignments/blob/main/Capstone%20Project-Ecommerce_Sales_Dataset.xlsx)
+### [5. Ecommerce_Sales_Performance_Dashboard](https://github.com/Nithya2-S/Excel_Assignments/blob/main/Capstone%20Project-Ecommerce_Sales_Dataset.xlsx)
 Analyzed and visualized e-commerce sales performance across multiple dimensions such as gender, product, category, payment type, store, state, and year to understand sales trends, customer behavior, and overall business performance.
 
 Tools Used:

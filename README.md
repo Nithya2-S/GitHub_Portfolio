@@ -68,7 +68,7 @@ Excel
 ---
 
 ## Education & Cerfication
-- **Bachelor of Engineering (B.E)** - P.S.R Engineering College
+- **Bachelor of Engineering (B.E)** - P.S.R Engineering College,Sivakasi
 - **Certification in AI Driven Data Analytics** - Entri Elevate in collaboration with Illinois Tech, US
 
 ---
